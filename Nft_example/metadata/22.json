@@ -1,0 +1,19 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb86L8mUphwJGzLPwXNTRiK1S4scBdj9cc2Sev3s8uLiB/22.png",
+    "tokenId": 22,
+    "name": "Jazz_ticket 22",
+    "attributes": [
+        {
+            "trait_type": "overlay",
+            "value": "silver"
+        },
+        {
+            "trait_type": "logo",
+            "value": "current"
+        },
+        {
+            "trait_type": "player",
+            "value": "Clarkson"
+        }
+    ]
+}

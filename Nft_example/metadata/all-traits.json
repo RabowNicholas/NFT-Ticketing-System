@@ -1,0 +1,302 @@
+[
+    {
+        "overlay": "base",
+        "logo": "current",
+        "player": "Mitchell",
+        "tokenId": 0
+    },
+    {
+        "overlay": "base",
+        "logo": "current",
+        "player": "Gobert",
+        "tokenId": 1
+    },
+    {
+        "overlay": "base",
+        "logo": "city",
+        "player": "Conley",
+        "tokenId": 2
+    },
+    {
+        "overlay": "gold",
+        "logo": "current",
+        "player": "Clarkson",
+        "tokenId": 3
+    },
+    {
+        "overlay": "base",
+        "logo": "current",
+        "player": "Clarkson",
+        "tokenId": 4
+    },
+    {
+        "overlay": "base",
+        "logo": "current",
+        "player": "Stockton",
+        "tokenId": 5
+    },
+    {
+        "overlay": "silver",
+        "logo": "current",
+        "player": "Mitchell",
+        "tokenId": 6
+    },
+    {
+        "overlay": "silver",
+        "logo": "current",
+        "player": "Conley",
+        "tokenId": 7
+    },
+    {
+        "overlay": "base",
+        "logo": "current",
+        "player": "O'Neale",
+        "tokenId": 8
+    },
+    {
+        "overlay": "base",
+        "logo": "current",
+        "player": "Conley",
+        "tokenId": 9
+    },
+    {
+        "overlay": "base",
+        "logo": "city",
+        "player": "O'Neale",
+        "tokenId": 10
+    },
+    {
+        "overlay": "gold",
+        "logo": "current",
+        "player": "Gobert",
+        "tokenId": 11
+    },
+    {
+        "overlay": "silver",
+        "logo": "current",
+        "player": "O'Neale",
+        "tokenId": 12
+    },
+    {
+        "overlay": "base",
+        "logo": "96",
+        "player": "Mitchell",
+        "tokenId": 13
+    },
+    {
+        "overlay": "base",
+        "logo": "96",
+        "player": "Malone",
+        "tokenId": 14
+    },
+    {
+        "overlay": "gold",
+        "logo": "current",
+        "player": "O'Neale",
+        "tokenId": 15
+    },
+    {
+        "overlay": "base",
+        "logo": "city",
+        "player": "Clarkson",
+        "tokenId": 16
+    },
+    {
+        "overlay": "base",
+        "logo": "current",
+        "player": "Malone",
+        "tokenId": 17
+    },
+    {
+        "overlay": "base",
+        "logo": "city",
+        "player": "Gobert",
+        "tokenId": 18
+    },
+    {
+        "overlay": "silver",
+        "logo": "current",
+        "player": "Gobert",
+        "tokenId": 19
+    },
+    {
+        "overlay": "base",
+        "logo": "city",
+        "player": "Mitchell",
+        "tokenId": 20
+    },
+    {
+        "overlay": "gold",
+        "logo": "current",
+        "player": "Mitchell",
+        "tokenId": 21
+    },
+    {
+        "overlay": "silver",
+        "logo": "current",
+        "player": "Clarkson",
+        "tokenId": 22
+    },
+    {
+        "overlay": "base",
+        "logo": "96",
+        "player": "O'Neale",
+        "tokenId": 23
+    },
+    {
+        "overlay": "holofoil",
+        "logo": "current",
+        "player": "Gobert",
+        "tokenId": 24
+    },
+    {
+        "overlay": "silver",
+        "logo": "current",
+        "player": "Stockton",
+        "tokenId": 25
+    },
+    {
+        "overlay": "gold",
+        "logo": "current",
+        "player": "Malone",
+        "tokenId": 26
+    },
+    {
+        "overlay": "holofoil",
+        "logo": "current",
+        "player": "O'Neale",
+        "tokenId": 27
+    },
+    {
+        "overlay": "gold",
+        "logo": "city",
+        "player": "O'Neale",
+        "tokenId": 28
+    },
+    {
+        "overlay": "silver",
+        "logo": "current",
+        "player": "Malone",
+        "tokenId": 29
+    },
+    {
+        "overlay": "silver",
+        "logo": "city",
+        "player": "O'Neale",
+        "tokenId": 30
+    },
+    {
+        "overlay": "holofoil",
+        "logo": "current",
+        "player": "Mitchell",
+        "tokenId": 31
+    },
+    {
+        "overlay": "gold",
+        "logo": "current",
+        "player": "Conley",
+        "tokenId": 32
+    },
+    {
+        "overlay": "gold",
+        "logo": "city",
+        "player": "Gobert",
+        "tokenId": 33
+    },
+    {
+        "overlay": "silver",
+        "logo": "city",
+        "player": "Gobert",
+        "tokenId": 34
+    },
+    {
+        "overlay": "base",
+        "logo": "96",
+        "player": "Clarkson",
+        "tokenId": 35
+    },
+    {
+        "overlay": "holofoil",
+        "logo": "current",
+        "player": "Clarkson",
+        "tokenId": 36
+    },
+    {
+        "overlay": "holofoil",
+        "logo": "current",
+        "player": "Conley",
+        "tokenId": 37
+    },
+    {
+        "overlay": "base",
+        "logo": "96",
+        "player": "Gobert",
+        "tokenId": 38
+    },
+    {
+        "overlay": "gold",
+        "logo": "city",
+        "player": "Clarkson",
+        "tokenId": 39
+    },
+    {
+        "overlay": "gold",
+        "logo": "city",
+        "player": "Conley",
+        "tokenId": 40
+    },
+    {
+        "overlay": "base",
+        "logo": "96",
+        "player": "Conley",
+        "tokenId": 41
+    },
+    {
+        "overlay": "holofoil",
+        "logo": "city",
+        "player": "O'Neale",
+        "tokenId": 42
+    },
+    {
+        "overlay": "gold",
+        "logo": "city",
+        "player": "Stockton",
+        "tokenId": 43
+    },
+    {
+        "overlay": "base",
+        "logo": "city",
+        "player": "Stockton",
+        "tokenId": 44
+    },
+    {
+        "overlay": "silver",
+        "logo": "city",
+        "player": "Conley",
+        "tokenId": 45
+    },
+    {
+        "overlay": "holofoil",
+        "logo": "city",
+        "player": "Gobert",
+        "tokenId": 46
+    },
+    {
+        "overlay": "gold",
+        "logo": "city",
+        "player": "Mitchell",
+        "tokenId": 47
+    },
+    {
+        "overlay": "silver",
+        "logo": "city",
+        "player": "Mitchell",
+        "tokenId": 48
+    },
+    {
+        "overlay": "base",
+        "logo": "city",
+        "player": "Malone",
+        "tokenId": 49
+    }
+]

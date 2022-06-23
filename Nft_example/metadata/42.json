@@ -1,0 +1,19 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb86L8mUphwJGzLPwXNTRiK1S4scBdj9cc2Sev3s8uLiB/42.png",
+    "tokenId": 42,
+    "name": "Jazz_ticket 42",
+    "attributes": [
+        {
+            "trait_type": "overlay",
+            "value": "holofoil"
+        },
+        {
+            "trait_type": "logo",
+            "value": "city"
+        },
+        {
+            "trait_type": "player",
+            "value": "O'Neale"
+        }
+    ]
+}

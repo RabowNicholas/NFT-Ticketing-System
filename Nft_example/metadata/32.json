@@ -1,0 +1,19 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb86L8mUphwJGzLPwXNTRiK1S4scBdj9cc2Sev3s8uLiB/32.png",
+    "tokenId": 32,
+    "name": "Jazz_ticket 32",
+    "attributes": [
+        {
+            "trait_type": "overlay",
+            "value": "gold"
+        },
+        {
+            "trait_type": "logo",
+            "value": "current"
+        },
+        {
+            "trait_type": "player",
+            "value": "Conley"
+        }
+    ]
+}
